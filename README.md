@@ -1,1 +1,1 @@
-# Basic-Practical-s-For-DSA-Data-Structure-Algorithm-
+# Basic-Practical-s-For-DSA-Data-Structure-Algorithm
